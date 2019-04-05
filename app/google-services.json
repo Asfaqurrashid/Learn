@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "546933476073",
+    "firebase_url": "https://learn-94846.firebaseio.com",
+    "project_id": "learn-94846",
+    "storage_bucket": "learn-94846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546933476073:android:d70253fef11532b3",
+        "android_client_info": {
+          "package_name": "com.example.faizu.learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546933476073-6bptakh7hbie8811fpkp0st1aktdoe4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByl4JsGf4B6pW_r9aDPj9naY0NtZtL2jE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
